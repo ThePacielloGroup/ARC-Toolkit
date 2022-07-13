@@ -6,6 +6,4 @@ This convenient web browser extension enables you to easily drill down into code
 
 **Get Started With Your New Go-To Accessibility Testing Tool _Today_!**
 
-* [Chrome Web Store]()
-* [Firefox Add-ons]()
-* [Microsoft Edge Add-ons]()
+* [Chrome Web Store](https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce)
